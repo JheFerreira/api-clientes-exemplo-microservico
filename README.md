@@ -18,6 +18,9 @@ Baixe e instale a JDK mais recente [JDK](https://www.oracle.com/technetwork/java
 
 Clone ou baixe o projeto.
 
+Coisa adicionada
+
+
 Navegue até a pasta com.viniciuspessoni e abra a classe Aplicacao.kt.
 
 Um botão verde (um play) deve aparecer ao lado na linha 9, basta apertar ele.
